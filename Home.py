@@ -25,7 +25,7 @@ def main():
     )
 
     if st.button("Explore TextLoc Lens"):
-        st.page_link("pages\Analysis.py", label="Get Started")
+        st.page_link("pages/Analysis.py", label="Get Started")
 
     st.write(
         """
